@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC7_Register with empty name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a05cb5f0-577a-4933-b050-adbbfb4df16d</testCaseGuid>
+   <variable>
+      <defaultValue>'hothihuou2k1@gmail.com'</defaultValue>
+      <description></description>
+      <id>dc500285-95ee-42e3-9de2-9939af69e2bd</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0983257485'</defaultValue>
+      <description></description>
+      <id>7db9b04a-91c4-4137-b105-9fb9424b8d63</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>8a3ea576-eddb-4270-bd68-4a8f3697f9e9</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

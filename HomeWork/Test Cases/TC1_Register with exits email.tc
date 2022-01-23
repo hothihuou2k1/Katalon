@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1_Register with exits email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03fd2eaa-cd49-4531-9149-eccba30e5451</testCaseGuid>
+   <variable>
+      <defaultValue>'Ho Thi Huou'</defaultValue>
+      <description></description>
+      <id>8d336dc6-114a-4575-ab1b-8d40d0196b98</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>cae6f3b7-f887-433a-a5e6-a53df1a51d71</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'0983257485'</defaultValue>
+      <description></description>
+      <id>77d58f58-1b14-4aef-a327-02f2cada23ce</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'hothihuou2k1@gmail.com'</defaultValue>
+      <description></description>
+      <id>b3d0f506-666e-405e-ad8f-97f660b16c55</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC8_Register with empty email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80e0e710-801d-4db8-9629-cfd62edc4b5b</testCaseGuid>
+   <variable>
+      <defaultValue>'Ho Thi Huou'</defaultValue>
+      <description></description>
+      <id>92cb6319-cb77-4e86-82bc-590bad93d311</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>2362b809-6d7f-4b68-92aa-ead68c7c83a8</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'0983257485'</defaultValue>
+      <description></description>
+      <id>827225cf-1a39-45c3-b101-10792ac50ec1</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

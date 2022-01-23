@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>314d8936-f70c-4a96-90b7-7744a5c43257</testCaseGuid>
+   <variable>
+      <defaultValue>'hothihuou2k1@gmail.com'</defaultValue>
+      <description></description>
+      <id>a63b17de-0ce3-4101-a294-936fdf89a1e1</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9c6d6f44-7887-4eab-9a96-269cea7ab4d3</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ho Thi Huou'</defaultValue>
+      <description></description>
+      <id>e00f8a88-5010-4e42-b213-7ece5a689c1c</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>

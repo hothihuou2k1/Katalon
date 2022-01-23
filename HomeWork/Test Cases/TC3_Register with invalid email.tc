@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3_Register with invalid email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9c34209-ecdf-431a-b48f-df4e2de96df3</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>ec8c4b38-63c2-4f35-a719-93a304981ab4</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'Ho Thi Huou'</defaultValue>
+      <description></description>
+      <id>17d7e350-5a83-4102-b8b5-321915a454b1</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'hothihuou.2k1@.gmail.com'</defaultValue>
+      <description></description>
+      <id>3dfd0b61-9240-4f87-8c83-496361093315</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'0983257485'</defaultValue>
+      <description></description>
+      <id>3bfdc3af-c49d-4300-bfbc-b8c1e91d9a1e</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>
